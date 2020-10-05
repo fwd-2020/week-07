@@ -8,6 +8,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
+/* Base Styles */
 html {
   background: #222;
   color: #EEE;
@@ -16,4 +17,10 @@ html {
 h1,
 figcaption {
   padding: 8px;
+}
+
+/* Responsive Images */
+img {
+  display: block;
+  max-width: 100%;
 }
