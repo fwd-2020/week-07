@@ -15,7 +15,8 @@ html {
   padding: 16px;
 }
 h1,
-figcaption {
+figcaption,
+p {
   padding: 8px;
 }
 
@@ -23,4 +24,5 @@ figcaption {
 img {
   display: block;
   max-width: 100%;
+  border: 1px solid #EEE;
 }
